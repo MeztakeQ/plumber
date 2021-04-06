@@ -1,0 +1,14 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="23" viewBox="0 0 100 23">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+        fill: #ef3d01;
+        font-family: Roboto;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text id="PLUMBER" class="cls-1" transform="translate(-1.12 23.24) scale(1.584)">PLUMBER</text>
+  <image id="wrench" x="12" width="9" height="23" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAXCAYAAADZTWX7AAAA6ElEQVQoke3Sr0pEQRTH8c+sf0BNFywmk0URDIJBEIvYBB/hZpNtg/gIgi+wUwURq2BSfAGDwWgQBHFvVpSRWe7A6m63+IOB3/mdL+fMwEgp6fds9nsWsy+n37NVfKeJYRXXqPzUZRPDbk466GLGqCZwUqD1tr1WsCaGBUxhuYlhfjJnbS82MezhAYeYbfOUJ10MLdrHEeba+r6q01uGTnE3ciPecZBNyE9sYpjGLTaGoO2qTjfl4qo6feDl16SnYjojS8boH/pL6AtnOG7rz3HQFZawgkc8l8bgqxQ1Mey04HlVp9dBjm9Na0iO7UkS4QAAAABJRU5ErkJggg=="/>
+</svg>
